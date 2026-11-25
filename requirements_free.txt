@@ -1,0 +1,15 @@
+# FREE AI Requirements
+flask>=3.0.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+
+# Optional: Only install if using Groq API (free)
+groq>=0.4.0
+
+# Note: Ollama runs as separate application, no pip package needed
+# Download from: https://ollama.ai
+
+
+

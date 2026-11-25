@@ -1,0 +1,285 @@
+{
+  "message_stats": {
+    "total_messages": 24,
+    "avg_length": 24.583333333333332,
+    "avg_words": 5.0,
+    "median_length": 23,
+    "short_messages": 8,
+    "long_messages": 0
+  },
+  "vocabulary": {
+    "unique_words": 88,
+    "most_common": [
+      [
+        "the",
+        7
+      ],
+      [
+        "you",
+        6
+      ],
+      [
+        "we",
+        4
+      ],
+      [
+        "one",
+        4
+      ],
+      [
+        "i",
+        3
+      ],
+      [
+        "lol",
+        2
+      ],
+      [
+        "was",
+        2
+      ],
+      [
+        "so",
+        2
+      ],
+      [
+        "should",
+        2
+      ],
+      [
+        "yeah",
+        2
+      ],
+      [
+        "with",
+        2
+      ],
+      [
+        "that",
+        2
+      ],
+      [
+        "show",
+        2
+      ],
+      [
+        "morning",
+        1
+      ],
+      [
+        "did",
+        1
+      ],
+      [
+        "sleep",
+        1
+      ],
+      [
+        "well",
+        1
+      ],
+      [
+        "yess",
+        1
+      ],
+      [
+        "had",
+        1
+      ],
+      [
+        "weirdest",
+        1
+      ],
+      [
+        "dream",
+        1
+      ],
+      [
+        "though",
+        1
+      ],
+      [
+        "were",
+        1
+      ],
+      [
+        "like",
+        1
+      ],
+      [
+        "at",
+        1
+      ],
+      [
+        "beach",
+        1
+      ],
+      [
+        "but",
+        1
+      ],
+      [
+        "it",
+        1
+      ],
+      [
+        "made",
+        1
+      ],
+      [
+        "of",
+        1
+      ]
+    ],
+    "signature_words": [
+      [
+        "you",
+        6
+      ],
+      [
+        "one",
+        4
+      ],
+      [
+        "lol",
+        2
+      ],
+      [
+        "yeah",
+        2
+      ],
+      [
+        "show",
+        2
+      ],
+      [
+        "morning",
+        1
+      ],
+      [
+        "sleep",
+        1
+      ],
+      [
+        "well",
+        1
+      ],
+      [
+        "yess",
+        1
+      ],
+      [
+        "weirdest",
+        1
+      ],
+      [
+        "dream",
+        1
+      ],
+      [
+        "though",
+        1
+      ],
+      [
+        "like",
+        1
+      ],
+      [
+        "beach",
+        1
+      ],
+      [
+        "made",
+        1
+      ],
+      [
+        "candy",
+        1
+      ],
+      [
+        "random",
+        1
+      ],
+      [
+        "hahaha",
+        1
+      ],
+      [
+        "right",
+        1
+      ],
+      [
+        "find",
+        1
+      ]
+    ]
+  },
+  "emoji_usage": {
+    "total_emojis": 8,
+    "emoji_frequency": 0.3333333333333333,
+    "favorite_emojis": [
+      [
+        "💕",
+        2
+      ],
+      [
+        "😂",
+        1
+      ],
+      [
+        "🏖️",
+        1
+      ],
+      [
+        "💪",
+        1
+      ],
+      [
+        "🍕",
+        1
+      ],
+      [
+        "🥰",
+        1
+      ],
+      [
+        "✨",
+        1
+      ]
+    ],
+    "uses_emojis": true
+  },
+  "punctuation_style": {
+    "exclamation_marks": 9,
+    "question_marks": 5,
+    "periods": 0,
+    "ellipsis": 0,
+    "all_caps_messages": 0,
+    "enthusiasm_level": 0.375
+  },
+  "common_phrases": {
+    "uses_greetings": false,
+    "greeting_frequency": 0.0,
+    "uses_signoffs": true,
+    "laugh_frequency": 0.20833333333333334,
+    "common_phrases": []
+  },
+  "response_patterns": {
+    "single_word_messages": 2,
+    "single_word_ratio": 0.08333333333333333,
+    "asks_questions": true,
+    "question_frequency": 0.20833333333333334
+  },
+  "topics": [
+    "food",
+    "feelings",
+    "questions"
+  ],
+  "texting_style": {
+    "concise": true,
+    "verbose": false,
+    "expressive": true,
+    "casual": true,
+    "uses_abbreviations": false
+  }
+}
