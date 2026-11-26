@@ -51,3 +51,6 @@ finetuning_data.jsonl
 .DS_Store
 Thumbs.db
 
+
+# Static demo output (demo/build_demo.py)
+site/

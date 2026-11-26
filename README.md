@@ -2,6 +2,8 @@
 
 A Python chatbot that learns someone's texting style from a WhatsApp chat export, including their vocabulary, emoji habits, message length and punctuation, and then replies in that style. It runs on OpenAI, Anthropic, or **free** backends (local Ollama, Groq or OpenRouter).
 
+**Live demo:** [akhilsingh2.github.io/momoGPT](https://akhilsingh2.github.io/momoGPT/). This is the web chat UI in demo mode with the bundled example persona: replies are canned samples in that persona's style, not model output. Train and chat for real by running it locally (`demo/build_demo.py` builds the page).
+
 <p align="center"><img src="docs/screenshots/chat.webp" alt="momoGPT web chat UI" width="80%"></p>
 <p align="center"><sub>Web UI using the bundled example persona (replies stubbed for the screenshot).</sub></p>
 
